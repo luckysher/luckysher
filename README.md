@@ -4,7 +4,7 @@
 
 I focused on building production-ready AI systems, intelligent automation solutions, and scalable software  architectures that help businesses accelerate growth, streamline operations, and eliminate repetitive manual workflows. 
 
-With 9+ years of engineering experience spanning full-stack development, cloud infrastructure, backend engineering, and AI systems, I specialize in designing and developing end-to-end solutions powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and intelligent automation.
+With 9+ years of engineering experience spanning full-stack development (SaaS), cloud infrastructure, backend engineering, and AI systems, I specialize in designing and developing end-to-end solutions powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and intelligent automation.
 
 My expertise lies in transforming complex business requirements into scalable, reliable, and production-grade AI solutions — from LLM-powered applications and autonomous AI workflows to robust backend systems and enterprise automation platforms.
 
